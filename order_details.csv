@@ -1,0 +1,21 @@
+ClientName,City,Product,Category,DistributionCenter,OrderID,OrderDate,Quantity,UnitPrice,Stock
+Super Max,Bogotá,Apple Gala,Fruit,North Center,O1001,2026-05-01,5,"2,5",100
+Super Max,Bogotá,Apple Gala,Fruit,North Center,O1002,2026-05-02,25,"2,5",95
+Fresh Markt,Medellín,Banana,Fruit,West Center,O1003,2026-05-02,15,"1,2",180
+Fresh Markt,Medellín,Banana,Fruit,West Center,O1004,2026-05-03,20,"1,2",165
+Mini Shop,Cali,Milk 1L,Dairy,South Hub,O1005,2026-05-04,8,"3,8",60
+Mini Shop,Cali,Milk 1L,Dairy,South Hub,O1006,2026-05-05,52,"3,8",52
+Super Max,Barranquilla,Chicken Breast,Meat,North Center,O1007,2026-05-06,10,"6,5",70
+Super Max,Barranquilla,Chicken Breast,Meat,North Center,O1008,2026-05-07,10,"6,5",60
+Eco Store,Cartagena ,Rice 1kg,Grain,Coastal DC,O1009,2026-05-09,30,2,182
+Eco Store,Cartagena ,Rice 1kg,Grain,Coastal DC,O1010,2026-05-08,18,2,200
+Market One,Bucaramanga,Extra Virgin Olive Oil,Oil,East Hub,O1011,2026-05-10,4,"8,9",40
+Market One,Bucaramanga,Extra Virgin Olive Oil,Oil,East Hub,O1012,2026-05-11,6,"8,9",36
+Retail Co,Pereira,Eggs x12,Dairy,Coffee Center,O1013,2026-05-12,9,"4,2",90
+Retail Co,Pereira,Eggs x12,Dairy,Coffee Center,O1014,2026-05-13,14,"4,2",81
+Food Plus,Manizales,Tomatoes,Vegetables,Coffee Center,O1015,2026-05-14,16,"1,8",120
+Food Plus,Manizales,Tomatoes,Vegetables,Coffee Center,O1016,2026-05-15,22,"1,8",104
+Green Buy,Bogotá,Iceberg Lettuce,Vegetables,North Center,O1017,2026-05-16,7,"1,1",50
+Green Buy,Bogotá,Iceberg Lettuce,Vegetables,North Center,O1018,2026-05-17,11,"1,1",43
+Quick Food,Cúcuta,Spaghetti,Grain,East Hub,O1019,2026-05-18,13,"2,3",140
+Quick Food,Cúcuta,Spaghetti,Grain,East Hub,O1020,2026-05-19,19,"2,3",127
