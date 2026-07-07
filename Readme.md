@@ -51,4 +51,4 @@ The implementation includes six business intelligence queries designed for opera
 ## Developer Information
 * **Full Name:** Yesid Palacio
 * **Clan:** Esthercita
-* **GitHub Repository:** []
+* **GitHub Repository:** https://github.com/Hakus16/SQL_Prueba
